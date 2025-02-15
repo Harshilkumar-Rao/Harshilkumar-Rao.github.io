@@ -1,0 +1,23 @@
+{
+  "users":
+          [
+            {
+              "DisplayName" : "Harshil Rao",
+              "EmailAddress" : "harshilrao@gmamil.com",
+              "Username": "HarshilRao",
+              "Password": "123456"
+            },
+            {
+              "DisplayName" : "harshil",
+              "EmailAddress" : "Harshilrao567@gmamil.com",
+              "Username": "harshil567",
+              "Password": "password"
+            },
+            {
+              "DisplayName" : "Rao",
+              "EmailAddress" : "Harshil0506@gmamil.com",
+              "Username": "harshil0506",
+              "Password": "789120"
+            }
+          ]
+}
